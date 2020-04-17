@@ -1,7 +1,7 @@
 # Projeto COVID19-BR
 Previsão da Progressão dos Casos Confirmados de COVID19 por Estado no Brasil
 
-As versões dos Notebooks serão atualizadas conforme os dados forem também.
+As versões dos Notebooks serão atualizadas conforme os dados forem também. (Atualização com os dados referentes ao dia 15/04)
 
 Links para os dois datasets que são atualizados diariamente:
 

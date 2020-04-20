@@ -1,7 +1,8 @@
 # Projeto COVID19-BR
 Previsão da Progressão dos Casos Confirmados de COVID19 por Estado no Brasil
 
-As versões dos Notebooks serão atualizadas conforme os dados forem também. (Atualização com os dados referentes ao dia 15/04)
+As versões dos Notebooks serão atualizadas conforme os dados forem também. (Atualização com os dados referentes ao dia 18/04)
+Versão 8 disponibilizada!
 
 Links para os dois datasets que são atualizados diariamente:
 
@@ -9,4 +10,4 @@ Links para os dois datasets que são atualizados diariamente:
 
 (2) https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-cities-time.csv
 
-Os demais datasets utilizados estão anexados no arquivo DATASETS.rar
+Os demais datasets utilizados com informações sobre latitude, longitude, população, área demográfica dos estados e municípios estão anexados no arquivo DATASETS2.rar
